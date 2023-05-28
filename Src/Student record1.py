@@ -628,5 +628,4 @@ b=PhotoImage(file='Start Button.gif')
 
 Button(window,image=b,command=start,bd=-5).place(x=410,y=490)
 
-Label(window,text='Contact Us\n Developer:\Deepika Kendole',font=("Times New",15)).place(x=1090,y=0)
 window.mainloop()
